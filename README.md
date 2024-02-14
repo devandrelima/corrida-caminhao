@@ -6,7 +6,7 @@ Primeiro trabalho prático da matéria de Programação de Computadores feito em
 
 ## Tela Principal
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/devAndreLA/corrida-caminhao/assets/141466018/f3eed24a-558f-49ed-85d2-462174d42732)
 
 ## Tela de Conclusão
 
