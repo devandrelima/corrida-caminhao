@@ -1,9 +1,8 @@
 
 # Corrida de Caminhões 
 
-Primeiro trabalho prático da matéria de Programação de Computadores feito em C++. O objetivo do trabalho é fazer uma corrida de caminhões a qual o vencedor é aleatório. 
-É necessário pressionar uma tecla até que um dos caminhões passe da marca 100. Ao passar o objetivo estabelecido a corrida termina e o programa informa a velocidade média dos
-caminhões e a quantidade de cliques que foram necessários para o programa terminar.
+Trabalho de laboratório de Programação de Computadores em C++. O objetivo é programar uma corrida de caminhões com o vencedor aleatório. 
+Deve-se pressionar uma tecla até que um dos caminhões passe a linha de chegada na marca 100. Então a corrida termina e o programa informa a velocidade média dos caminhões e a quantidade de cliques que foram necessários para o programa terminar.
 
 
 ## Tela Principal
