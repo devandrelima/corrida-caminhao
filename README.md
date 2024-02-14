@@ -21,4 +21,4 @@ C++, Visual Studio 2022
 
 ## Autor
 
-- [@devAndreLA](https://github.com/devAndreLA)
+- [@devandrelima](https://github.com/devandrelima)
